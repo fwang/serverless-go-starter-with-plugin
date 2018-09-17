@@ -1,4 +1,4 @@
-service: sls-go1-with-plugin
+service: sls-go1-with-plugin-world
 
 plugins:
   - serverless-go-build
@@ -8,6 +8,6 @@ provider:
   runtime: go1.x
 
 functions:
-  hello:
-    handler: hello/main.go
+  world:
+    handler: world/main.go
 
