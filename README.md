@@ -1,6 +1,6 @@
 # Serverless Go Starter with Plugin
 
-A Go starter project for [Serverless Framework](https://serverless.com/framework/) with support for dependencies (using [dep](https://github.com/golang/dep) & [serverless-go-build].
+A Go starter project for [Serverless Framework](https://serverless.com/framework/) with support for dependencies (using [dep](https://github.com/golang/dep) & [serverless-go-build](https://github.com/sean9keenan/serverless-go-build).
 
 ### Requirements
 
@@ -39,7 +39,7 @@ $ serverless build
 
 Invoke a function locally
 
-```
+```sh
 $ serverless invoke local -f hello
 ```
 
