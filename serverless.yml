@@ -10,6 +10,5 @@ provider:
 functions:
   hello:
     handler: hello/main.go
-
   world:
     handler: world/main.go
