@@ -1,5 +1,5 @@
 {
-  "name": "sls-go1-with-plugin",
+  "name": "serverless-go-starter-with-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
